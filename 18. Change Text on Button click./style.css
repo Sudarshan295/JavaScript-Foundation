@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 50px;
+}
+body{
+    background-color: rgb(223, 237, 100);
+    color: brown;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    padding: 12px 18px;
+    background-color: aqua;
+    font-size: 18px;
+    font-weight: 800;
+    cursor: pointer;
+   
+}
+button:hover{
+    border-radius: 15px;
+    
+}
