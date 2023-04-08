@@ -1,6 +1,6 @@
 /*
 8. Inverted right-angled triangle pattern with asterisks
-Writq a program that takqs an integer input i and prints an inverted right-angled trianglq pattqrn of asterisks
+Write a program that takes an integer input i and prints an inverted right-angled triangle pattern of asterisks
 with i rows.
 Inverted right-angled pattern:
     ******
